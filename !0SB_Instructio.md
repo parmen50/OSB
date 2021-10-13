@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-13T14:13:35+03:00
+modified: 2021-10-13T14:16:23+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ.  
@@ -42,9 +42,9 @@ __Схема предоставляется
 ### ПОВТОРНОЕ ОБРАЩЕНИЕ:  
 (раз в месяц для штатной коррекции)  
 
- - [x] __Динамика состояния__ - заполнить и прислать:   
- [yyyy-mm-dd-dinamika.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-dinamika.txt) + изначальный    
-- [x] __Анализ проблемы__:   
+- [x] __Динамика состояния__ - заполнить и прислать:   
+ [yyyy-mm-dd-dinamika.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-dinamika.txt) +     
+- [x] __Анализ проблемы__ изначальный:   
 [yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)
 - [x] __Промеры__ - сделать и прислать (+прошлые):  
 [yyyy-mm-dd-promery.xlsx](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-promery.xlsx)  
