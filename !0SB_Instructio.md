@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-13T13:49:12+03:00
+modified: 2021-10-13T14:00:43+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ.  
@@ -44,7 +44,7 @@ __Схема предоставляется на срок в 1 месяц.__
 
  - [x] __Динамика состояния__ - заполнить и прислать:   
  [yyyy-mm-dd-dinamika.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-dinamika.txt) + изначальный    
-- [x] __Анализ проблемы__ :   
+- [x] __Анализ проблемы__:   
 [yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)
 - [x] __Промеры__ - сделать и прислать (+прошлые):  
 [yyyy-mm-dd-promery.xlsx](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-promery.xlsx)  
