@@ -7,8 +7,8 @@ modified: 2021-10-14T03:20:15+03:00
 ![](!AIT.jpg)  
 [А. И. Талалакин](https://t.me/osbmd)  
 ***
-- [x] [ОСБ. ИНСТРУКЦИИ.](!0SB_Instructio.md)
-- [x] [ОКНО ЗАПРОСА](http://mductor.weebly.com/a.html) (VPN-доступ)  
+- [x] [ОСБ. ИНСТРУКЦИИ.](!0SB_Instructio.md) 
+- [x] [ОКНО ЗАПРОСА](http://mductor.weebly.com/a.html) (VPN-доступ)    
 ***
 #### Статьи для самостоятельного изучения:
 - [x] [ДМСО. Григорович Н. А.](DMSO_NANO.md)   
