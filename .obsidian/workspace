@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "!0SB.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "!0SB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "!0SB.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!0SB_Instructio.md"
+            "file": "!0SB.md"
           }
         }
       },
@@ -149,12 +149,13 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 6
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "!0SB_Instructio.md",
     "!0SB.md",
+    "!0SB_Instructio.md",
     "DMSO_NANO.md",
     "AP20211010.md",
     "U__Krylia_Angela.md",
