@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "yyyy-mm-dd-analis-problemy.md",
+            "file": "AP20211010.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "yyyy-mm-dd-analis-problemy.md",
+            "file": "AP20211010.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "yyyy-mm-dd-analis-problemy.md",
+            "file": "AP20211010.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "yyyy-mm-dd-analis-problemy.md"
+            "file": "AP20211010.md"
           }
         }
       },
@@ -154,9 +154,9 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "yyyy-mm-dd-analis-problemy.md",
-    "!0SB_Instructio.md",
     "AP20211010.md",
+    "!0SB_Instructio.md",
+    "yyyy-mm-dd-analis-problemy.md",
     "!0SB.md",
     "DMSO_NANO.md",
     "U__Krylia_Angela.md",

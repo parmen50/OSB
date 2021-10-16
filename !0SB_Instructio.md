@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-13T14:33:41+03:00
+modified: 2021-10-16T12:09:46+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ.  
@@ -89,6 +89,11 @@ __*Для скачивания образцов используйте VPN!*__
 http://mductor.weebly.com/a.html - страница запроса и скачивания образцов.  
 
 - [x] [Образцы. Zip-архив](https://mductor.weebly.com/uploads/1/0/8/4/10843070/0sb-forms.zip)  (VPN-доступ). 
+***
+#### Альтернативные ссылки:
+- [x] [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
+- [x] [yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)  
+- [x] [yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md)  
 ***
 С уважением,  
 А. И. Талалакин
