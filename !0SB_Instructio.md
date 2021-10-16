@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-16T13:23:10+03:00
+modified: 2021-10-16T13:34:24+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -11,9 +11,11 @@ _[ОСБ](!0SB.md). ВНИМАНИЕ! Обновлено 02.10.2021 г.
 ***  
 ### ПЕРВИЧНОЕ ОБРАЩЕНИЕ:  
 - [x] __Анализ проблемы__ - заполнить и прислать:  
-[yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)
+[yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)  
+[yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
 - [x] __Промеры__ - сделать и прислать:   
 [yyyy-mm-dd-promery.xlsx](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-promery.xlsx)  
+[yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)  
 - [x] __Мочу__ собрать:  
 — Утром (сразу после пробуждения)  
 — Днем   
@@ -31,25 +33,28 @@ _[ОСБ](!0SB.md). ВНИМАНИЕ! Обновлено 02.10.2021 г.
 *Как подготовитесь - присылайте на рассмотрение файлы в необходимом формате.*  
 
 *Если возьмусь за Вас - договоримся о дне и времени для работы по Вашему запросу*.  
-***
-***
+***  
+***  
 __Схема предоставляется  
 на срок в 1 месяц.__  
 
 *Дальнейшая корректировка осуществляется  ежемесячно, исходя из состояния 
 на момент текущего отчёта (Динамика+Промеры+Моча).* 
-***
+***  
 
-***
+***  
 ### ПОВТОРНОЕ ОБРАЩЕНИЕ:  
 (раз в месяц для штатной коррекции)  
 
 - [x] __Динамика состояния__ - заполнить и прислать:   
- [yyyy-mm-dd-dinamika.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-dinamika.txt) +     
+ [yyyy-mm-dd-dinamika.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-dinamika.txt)  
+[yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md) +     
 - [x] __Анализ проблемы__ изначальный:   
-[yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)
+[yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)  
+[yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
 - [x] __Промеры__ - сделать и прислать (+прошлые):  
 [yyyy-mm-dd-promery.xlsx](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-promery.xlsx)  
+[yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)
 - [x] __Мочу__ собрать:  
 — Утром (сразу после пробуждения)  
 — Днем  
@@ -74,9 +79,15 @@ __Схема предоставляется
 с расширением  __.xlsx__   
 ***
 #### Присылайте файлы в формате:  
-[yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)  
-[yyyy-mm-dd-promery.xlsx](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-promery.xlsx)  
- [yyyy-mm-dd-dinamika.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-dinamika.txt)  
+[yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)   
+[yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
+
+[yyyy-mm-dd-promery.xlsx](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-promery.xlsx)   
+[yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)   
+
+[yyyy-mm-dd-dinamika.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-dinamika.txt)   
+[yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md)  
+
 yyyy-mm-dd-urina.jpg (или .png)  
 #### Где:
 yyyy - год  
