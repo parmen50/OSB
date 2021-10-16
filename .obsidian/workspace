@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP20211010.md",
+            "file": "!0SB.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AP20211010.md",
+            "file": "!0SB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AP20211010.md",
+            "file": "!0SB.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AP20211010.md"
+            "file": "!0SB.md"
           }
         }
       },
@@ -154,10 +154,10 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "AP20211010.md",
-    "!0SB_Instructio.md",
-    "yyyy-mm-dd-analis-problemy.md",
     "!0SB.md",
+    "!0SB_Instructio.md",
+    "AP20211010.md",
+    "yyyy-mm-dd-analis-problemy.md",
     "DMSO_NANO.md",
     "U__Krylia_Angela.md",
     "DMSO_APROTON.md",

@@ -1,14 +1,14 @@
 ---
-modified: 2021-10-16T12:09:46+03:00
+modified: 2021-10-16T12:26:14+03:00
 ---
 
-### ОСБ. ИНСТРУКЦИИ.  
-***
+### ОСБ. ИНСТРУКЦИИ. 
+***  
 ![Arbalet](ArbaletEP.jpg)  
-***
+***  
 _[ОСБ](!0SB.md). ВНИМАНИЕ! Обновлено 02.10.2021 г.  
 Старые формы больше не принимаются!_   
-***
+***  
 ### ПЕРВИЧНОЕ ОБРАЩЕНИЕ:  
 - [x] __Анализ проблемы__ - заполнить и прислать:  
 [yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)
@@ -88,13 +88,11 @@ __*Для скачивания образцов используйте VPN!*__
 
 http://mductor.weebly.com/a.html - страница запроса и скачивания образцов.  
 
-- [x] [Образцы. Zip-архив](https://mductor.weebly.com/uploads/1/0/8/4/10843070/0sb-forms.zip)  (VPN-доступ). 
+- [x] [Образцы. Zip-архив](https://mductor.weebly.com/uploads/1/0/8/4/10843070/0sb-forms.zip)  (VPN-доступ).  
 ***
-#### Альтернативные ссылки:
-- [x] [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
-- [x] [yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)  
-- [x] [yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md)  
+#### Альтернативная ссылка на скачивание архива:
+- [x] [OSB](OSB.zip)  
 ***
 С уважением,  
-А. И. Талалакин
+А. И. Талалакин  
 ***
