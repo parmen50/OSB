@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!0SB_Instructio.md",
-            "mode": "source"
+            "file": "yyyy-mm-dd-analis-problemy.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "yyyy-mm-dd-analis-problemy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "yyyy-mm-dd-analis-problemy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!0SB_Instructio.md"
+            "file": "yyyy-mm-dd-analis-problemy.md"
           }
         }
       },
@@ -154,6 +154,7 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "yyyy-mm-dd-analis-problemy.md",
     "!0SB_Instructio.md",
     "AP20211010.md",
     "!0SB.md",
@@ -162,7 +163,6 @@
     "DMSO_APROTON.md",
     "!AIT.jpg",
     "IMG_20211012_063021_885.jpg",
-    "consistant-report.md",
-    "З20211010 Анализ.md"
+    "consistant-report.md"
   ]
 }
