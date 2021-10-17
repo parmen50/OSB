@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-16T18:00:52+03:00
+modified: 2021-10-18T02:19:17+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -105,6 +105,7 @@ http://mductor.weebly.com/a.html - страница запроса и скачи
 __Альтернативная ссылка на  
 прямое скачивание архива:__
 - [x] [OSB.zip](OSB.zip)  
+- [x] [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)
 ***  
 С уважением,  
 А. И. Талалакин  
