@@ -1,8 +1,8 @@
 ---
-modified: 2021-10-17T10:42:15+03:00
+modified: 2021-10-17T10:48:07+03:00
 ---
 
-![Picture](https://mductor.weebly.com/uploads/1/0/8/4/10843070/1386451507.jpg)   
+![](!AI_Talalakin.jpg)  
 
 ## Анатолий Игоревич Талалакин  
 врач, колопроктолог, нутрициолог, фитотерапевт  
@@ -68,4 +68,4 @@ modified: 2021-10-17T10:42:15+03:00
 
 [https://t.me/osbmd](https://t.me/osbmd)
 
-![Фотография](https://mductor.weebly.com/uploads/1/0/8/4/10843070/320_orig.gif)
+![](!AI_kon.gif)

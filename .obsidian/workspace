@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DMSO_NANO.md",
+            "file": "!AI_Talalakin.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DMSO_NANO.md",
+            "file": "!AI_Talalakin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DMSO_NANO.md",
+            "file": "!AI_Talalakin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DMSO_NANO.md"
+            "file": "!AI_Talalakin.md"
           }
         }
       },
@@ -154,9 +154,9 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "DMSO_NANO.md",
     "!AI_Talalakin.md",
     "!0SB.md",
+    "DMSO_NANO.md",
     "AP20211010.md",
     "!0SB_Instructio.md",
     "yyyy-mm-dd-dinamika.md",
