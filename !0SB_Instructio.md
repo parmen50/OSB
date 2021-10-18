@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T13:53:18+03:00
+modified: 2021-10-18T13:59:58+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -74,9 +74,9 @@ __Схема предоставляется на срок в 1 месяц.__
 с расширением  __.xlsx__   
 ***
 #### Присылайте файлы в формате:  
-- [x] [yyyy-mm-dd-promery.xlsx](https://github.com/TalalakinAI/OSB/raw/master/yyyy-mm-dd-promery.xlsx)   
-- [x] [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
-- [x] [yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md)  
+- [x] yyyy-mm-dd-promery.xlsx  
+- [x] yyyy-mm-dd-analis-problemy.md  
+- [x] yyyy-mm-dd-dinamika.md   
 - [x] yyyy-mm-dd-urina.jpg (или .png)  
 
 __Где:__    
