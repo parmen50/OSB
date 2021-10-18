@@ -7,10 +7,9 @@
         "id": "959601d523ad5ba3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "!0SB_Instructio.md",
-            "mode": "preview"
+            "file": "!AI_Talalakin.jpg"
           }
         }
       }
@@ -84,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "!AI_Talalakin.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "!AI_Talalakin.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!0SB_Instructio.md"
+            "file": "!AI_Talalakin.jpg"
           }
         }
       },
@@ -154,6 +153,7 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "!AI_Talalakin.jpg",
     "!0SB_Instructio.md",
     "!0SB.md",
     "!AI_Talalakin.md",
@@ -162,7 +162,6 @@
     "yyyy-mm-dd-dinamika.md",
     "yyyy-mm-dd-analis-problemy.md",
     "U__Krylia_Angela.md",
-    "DMSO_APROTON.md",
-    "!AIT.jpg"
+    "DMSO_APROTON.md"
   ]
 }

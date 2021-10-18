@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T12:43:12+03:00
+modified: 2021-10-18T12:48:21+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -74,21 +74,20 @@ __Схема предоставляется на срок в 1 месяц.__
 с расширением  __.xlsx__   
 ***
 #### Присылайте файлы в формате:  
-[yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
-[yyyy-mm-dd-promery.xlsx](https://github.com/TalalakinAI/OSB/raw/master/yyyy-mm-dd-promery.xlsx)   
-[yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md)  
-__yyyy-mm-dd-urina__.jpg (или .png)  
+- [x] [yyyy-mm-dd-promery.xlsx](https://github.com/TalalakinAI/OSB/raw/master/yyyy-mm-dd-promery.xlsx)   
+- [x] [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
+- [x] [yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md)  
+- [x] yyyy-mm-dd-urina.jpg (или .png)  
 #### Где:  
 yyyy - год  
 mm - месяц  
-dd - день заполнения  
-
+dd - день заполнения   
+***
+__Ссылка на  прямое скачивание архива файлов:__
+- [x] [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  
+***   
 http://mductor.weebly.com/a.html - страница запроса (VPN).  
 ![](https://youtu.be/FQcPIXfhmsY)  
-***  
-__Ссылка на  
-прямое скачивание архива файлов:__
-- [x] [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)
 ***  
 С уважением,  
 А. И. Талалакин   
