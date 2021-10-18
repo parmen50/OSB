@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T15:20:40+03:00
+modified: 2021-10-18T15:42:30+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -85,7 +85,7 @@ mm - месяц
 dd - день заполнения   
 ***
 #### Ссылка на скачивание архива файлов:
-- [x] [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  
+- [x] [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  - обновление от 16.10.2021 г. 
 ***
 #### Для работы с (.md) используйте:     
 - [x] Андроид → Notepad++  
