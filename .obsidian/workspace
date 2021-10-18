@@ -7,9 +7,10 @@
         "id": "959601d523ad5ba3",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "!AI_Talalakin.jpg"
+            "file": "!0SB_Instructio.md",
+            "mode": "source"
           }
         }
       }
@@ -83,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!AI_Talalakin.jpg",
+            "file": "!0SB_Instructio.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!AI_Talalakin.jpg",
+            "file": "!0SB_Instructio.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!AI_Talalakin.jpg"
+            "file": "!0SB_Instructio.md"
           }
         }
       },
@@ -153,8 +154,8 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "!AI_Talalakin.jpg",
     "!0SB_Instructio.md",
+    "!AI_Talalakin.jpg",
     "!0SB.md",
     "!AI_Talalakin.md",
     "DMSO_NANO.md",

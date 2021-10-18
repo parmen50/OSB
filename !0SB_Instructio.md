@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T12:48:21+03:00
+modified: 2021-10-18T12:51:55+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -13,7 +13,7 @@ _[ОСБ](!0SB.md). ВНИМАНИЕ! Обновлено 16.10.2021 г.
 ***  
 ### ПЕРВИЧНОЕ ОБРАЩЕНИЕ:  
 - [x] __Анализ проблемы__ - заполнить и прислать:  
-[yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
+[yyyy-mm-dd-analis-problemy.md](https://github.com/TalalakinAI/OSB/blob/master/yyyy-mm-dd-analis-problemy.md)   
 - [x] __Промеры__ - сделать и прислать:   
 [yyyy-mm-dd-promery.xlsx](https://github.com/TalalakinAI/OSB/raw/master/yyyy-mm-dd-promery.xlsx)  
 - [x] __Мочу__ собрать:  
