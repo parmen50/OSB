@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!0SB.md",
+            "file": "!0SB_Instructio.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!0SB.md",
+            "file": "!0SB_Instructio.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!0SB.md",
+            "file": "!0SB_Instructio.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!0SB.md"
+            "file": "!0SB_Instructio.md"
           }
         }
       },
@@ -154,8 +154,8 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "!0SB.md",
     "!0SB_Instructio.md",
+    "!0SB.md",
     "!AI_Talalakin.md",
     "DMSO_NANO.md",
     "AP20211010.md",

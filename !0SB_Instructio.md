@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T03:08:34+03:00
+modified: 2021-10-18T03:09:25+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -101,8 +101,9 @@ __*Для скачивания образцов используйте VPN!*__
 http://mductor.weebly.com/a.html - страница запроса и скачивания образцов.  
 
 - [x] [Образцы. Zip-архив](https://mductor.weebly.com/uploads/1/0/8/4/10843070/0sb-forms.zip)  (VPN-доступ).  
-
+***  
 ![](https://youtu.be/FQcPIXfhmsY)
+***  
 __Альтернативная ссылка на  
 прямое скачивание архива:__
 - [x] [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)
