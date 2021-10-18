@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T06:16:55+03:00
+modified: 2021-10-18T12:30:43+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -13,10 +13,8 @@ _[ОСБ](!0SB.md). ВНИМАНИЕ! Обновлено 16.10.2021 г.
 ***  
 ### ПЕРВИЧНОЕ ОБРАЩЕНИЕ:  
 - [x] __Анализ проблемы__ - заполнить и прислать:  
-[yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)  
 [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
 - [x] __Промеры__ - сделать и прислать:   
-[yyyy-mm-dd-promery.xlsx](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-promery.xlsx)  
 [yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)  
 - [x] __Мочу__ собрать:  
 — Утром (сразу после пробуждения)  
@@ -47,13 +45,10 @@ __Схема предоставляется на срок в 1 месяц.__
 (раз в месяц для штатной коррекции)  
 
 - [x] __Динамика состояния__ - заполнить и прислать:   
- [yyyy-mm-dd-dinamika.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-dinamika.txt)  
 [yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md) +     
 - [x] __Анализ проблемы__ изначальный:   
-[yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)  
 [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
 - [x] __Промеры__ - сделать и прислать (+прошлые):  
-[yyyy-mm-dd-promery.xlsx](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-promery.xlsx)  
 [yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)
 - [x] __Мочу__ собрать:  
 — Утром (сразу после пробуждения)  
@@ -79,13 +74,10 @@ __Схема предоставляется на срок в 1 месяц.__
 с расширением  __.xlsx__   
 ***
 #### Присылайте файлы в формате:  
-[yyyy-mm-dd-analis-problemy.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-analis-problemy.txt)   
 [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
 
-[yyyy-mm-dd-promery.xlsx](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-promery.xlsx)   
 [yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)   
 
-[yyyy-mm-dd-dinamika.txt](https://mductor.weebly.com/uploads/1/0/8/4/10843070/yyyy-mm-dd-dinamika.txt)   
 [yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md)  
 
 yyyy-mm-dd-urina.jpg (или .png)  
@@ -94,18 +86,11 @@ yyyy - год
 mm - месяц  
 dd - день заполнения  
 
-
-__*Для скачивания образцов используйте VPN!*__
-
-http://mductor.weebly.com/a.html - страница запроса и скачивания образцов.  
-
-- [x] [Образцы. Zip-архив](https://mductor.weebly.com/uploads/1/0/8/4/10843070/0sb-forms.zip)  (VPN-доступ).  
+http://mductor.weebly.com/a.html - страница запроса (VPN).  
+![](https://youtu.be/FQcPIXfhmsY)  
 ***  
-[Как сделать промеры?](https://youtu.be/FQcPIXfhmsY)    
-![](https://youtu.be/FQcPIXfhmsY)   
-***  
-__Альтернативная ссылка на  
-прямое скачивание архива:__
+__Ссылка на  
+прямое скачивание архива файлов:__
 - [x] [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)
 ***  
 С уважением,  
