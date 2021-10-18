@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T06:15:19+03:00
+modified: 2021-10-18T06:16:55+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -102,7 +102,7 @@ http://mductor.weebly.com/a.html - страница запроса и скачи
 - [x] [Образцы. Zip-архив](https://mductor.weebly.com/uploads/1/0/8/4/10843070/0sb-forms.zip)  (VPN-доступ).  
 ***  
 [Как сделать промеры?](https://youtu.be/FQcPIXfhmsY)    
-![Как сделать промеры?](https://youtu.be/FQcPIXfhmsY)  
+![](https://youtu.be/FQcPIXfhmsY)   
 ***  
 __Альтернативная ссылка на  
 прямое скачивание архива:__
