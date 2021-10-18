@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T13:48:40+03:00
+modified: 2021-10-18T13:50:37+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -78,7 +78,8 @@ __Схема предоставляется на срок в 1 месяц.__
 - [x] [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
 - [x] [yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md)  
 - [x] yyyy-mm-dd-urina.jpg (или .png)  
-#### Где:  
+
+__Где:__    
 yyyy - год  
 mm - месяц  
 dd - день заполнения   
