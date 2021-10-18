@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T12:58:43+03:00
+modified: 2021-10-18T13:44:19+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -83,8 +83,13 @@ yyyy - год
 mm - месяц  
 dd - день заполнения   
 ***
-__Ссылка на скачивание архива файлов:__
+### Ссылка на скачивание архива файлов:
 - [x] [OSB.zip](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  
+***
+__Для работы с файлами (.md) используйте:__    
+- [x] Андроид → Notepad++  
+- [x] Windows → QuickEdit  
+- [x] Или редакторы Markdown  
 ***   
 http://mductor.weebly.com/a.html - страница запроса (VPN).  
 ![](https://youtu.be/FQcPIXfhmsY)  
