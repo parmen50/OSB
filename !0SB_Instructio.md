@@ -1,5 +1,5 @@
 ---
-modified: 2021-10-18T12:30:43+03:00
+modified: 2021-10-18T12:43:12+03:00
 ---
 
 ### ОСБ. ИНСТРУКЦИИ. 
@@ -15,7 +15,7 @@ _[ОСБ](!0SB.md). ВНИМАНИЕ! Обновлено 16.10.2021 г.
 - [x] __Анализ проблемы__ - заполнить и прислать:  
 [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
 - [x] __Промеры__ - сделать и прислать:   
-[yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)  
+[yyyy-mm-dd-promery.xlsx](https://github.com/TalalakinAI/OSB/raw/master/yyyy-mm-dd-promery.xlsx)  
 - [x] __Мочу__ собрать:  
 — Утром (сразу после пробуждения)  
 — Днем   
@@ -49,7 +49,7 @@ __Схема предоставляется на срок в 1 месяц.__
 - [x] __Анализ проблемы__ изначальный:   
 [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
 - [x] __Промеры__ - сделать и прислать (+прошлые):  
-[yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)
+[yyyy-mm-dd-promery.xlsx](https://github.com/TalalakinAI/OSB/raw/master/yyyy-mm-dd-promery.xlsx)
 - [x] __Мочу__ собрать:  
 — Утром (сразу после пробуждения)  
 — Днем  
@@ -75,12 +75,9 @@ __Схема предоставляется на срок в 1 месяц.__
 ***
 #### Присылайте файлы в формате:  
 [yyyy-mm-dd-analis-problemy.md](yyyy-mm-dd-analis-problemy.md)  
-
-[yyyy-mm-dd-promery.xlsx](yyyy-mm-dd-promery.xlsx)   
-
+[yyyy-mm-dd-promery.xlsx](https://github.com/TalalakinAI/OSB/raw/master/yyyy-mm-dd-promery.xlsx)   
 [yyyy-mm-dd-dinamika.md](yyyy-mm-dd-dinamika.md)  
-
-yyyy-mm-dd-urina.jpg (или .png)  
+__yyyy-mm-dd-urina__.jpg (или .png)  
 #### Где:  
 yyyy - год  
 mm - месяц  
