@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-19T14:45:43+03:00
+updated: 2021-10-20T00:01:09+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
@@ -37,3 +37,6 @@ _- фрагменты эфира:_
 #### 2021-09-12  
 - [x] Старт локальной версии Obs.md
 ***  
+`<script type="text/javascript" src="//s3.spruto.org/embed/player.js"></script> <script class="splayer"> var params = {"playlist":[{"video":[{"url":"http://cdn.advarkads.com/spruto_promo_video/spruto-rus.mp4"}],"duration":0,"posterUrl":"//s3.spruto.org/images/Sps_02_spruto_player_screen_1024.jpg"}],"uiLanguage":"ru","width":"640","height":"360"}; player.embed(params); </script>`  
+
+![](https://www.youtube.com/watch?v=L6ZWfxQo1ds)  
