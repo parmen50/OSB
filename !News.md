@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-20T01:34:53+03:00
+updated: 2021-10-20T01:41:54+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
@@ -37,5 +37,7 @@ _- фрагменты эфира:_
 #### 2021-09-12  
 - [x] Старт локальной версии Obs.md  
 ***   
-[![Watch the video](https://img.youtube.com/vi/47bunZt5erw/maxresdefault.jpg)](https://www.youtube.com/watch?v=47bunZt5erw)  
+[![Watch the video](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
 *** 
+[![Watch the video](https://img.youtube.com/vi/47bunZt5erw/maxresdefault.jpg)](https://www.youtube.com/watch?v=47bunZt5erw)   
+***  
