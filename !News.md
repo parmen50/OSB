@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-19T14:40:09+03:00
+updated: 2021-10-19T14:41:46+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
@@ -8,14 +8,14 @@ updated: 2021-10-19T14:40:09+03:00
 ***  
 #### 2021-10-19
 ### ВСД-Космонавтика
+![](https://telegra.ph/file/6f7ba784d854f41b9ea87.jpg)   
+
 _- фрагменты эфира:_
 - [x] [ВСД-Космонавтика ч. 1](https://t.me/osbmd/3032)
 - [x] [ВСД-Космонавтика ч. 2](https://t.me/osbmd/3038)
 - [x] [ВСД-Заливка ц. Кребса](https://t.me/osbmd/3056)
 - [x] [ВСД-Космонавтика ч. 3](https://t.me/osbmd/3057)
 - [x] [ВСД-Космонавтика ч. 4](https://t.me/osbmd/3060)
-
-![](https://telegra.ph/file/6f7ba784d854f41b9ea87.jpg)  
 ***  
 #### 2021-10-18  
 - [x] [Формы для скачивания без VPN](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  
