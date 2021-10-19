@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!0SB_Instructio.md",
-            "mode": "source"
+            "file": "!0SB.md",
+            "mode": "preview"
           }
         }
       }
@@ -67,6 +67,14 @@
         "id": "6867ff57edbc9cfd",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "bb122bfbfe8aa512",
+        "type": "leaf",
+        "state": {
           "type": "VIEW_TYPE_LONGFORM_EXPLORER",
           "state": {}
         }
@@ -84,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "!0SB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!0SB_Instructio.md",
+            "file": "!0SB.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!0SB_Instructio.md"
+            "file": "!0SB.md"
           }
         }
       },
@@ -145,6 +153,14 @@
         "id": "a2bf0244034a639b",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "6bd3831ce7c2191f",
+        "type": "leaf",
+        "state": {
           "type": "calendar",
           "state": {}
         }
@@ -154,15 +170,15 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
+    "!0SB.md",
+    "!News.md",
     "!0SB_Instructio.md",
     "!AI_Talalakin.jpg",
-    "!0SB.md",
     "!AI_Talalakin.md",
     "DMSO_NANO.md",
     "AP20211010.md",
     "yyyy-mm-dd-dinamika.md",
     "yyyy-mm-dd-analis-problemy.md",
-    "U__Krylia_Angela.md",
-    "DMSO_APROTON.md"
+    "U__Krylia_Angela.md"
   ]
 }
