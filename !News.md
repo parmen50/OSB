@@ -1,11 +1,14 @@
 ---
-updated: 2021-10-20T01:53:33+03:00
+updated: 2021-10-20T01:56:17+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
 ***  
 ### ОСБ. НОВОСТИ.
 ***  
+#### 2021-10-20
+[![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)
+***
 #### 2021-10-19
 ### ВСД-Космонавтика
 ![](https://telegra.ph/file/6f7ba784d854f41b9ea87.jpg)   
@@ -37,7 +40,5 @@ _- фрагменты эфира:_
 #### 2021-09-12  
 - [x] Старт локальной версии Obs.md  
 ***   
-[![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)
-*** 
 [![](https://img.youtube.com/vi/47bunZt5erw/maxresdefault.jpg)](https://www.youtube.com/watch?v=47bunZt5erw)  
 ***  
