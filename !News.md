@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-19T12:42:44+03:00
+updated: 2021-10-19T12:43:29+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
@@ -15,7 +15,7 @@ _- фрагменты эфира:_
 - [x] [ВСД-Космонавтика ч. 3](https://t.me/osbmd/3057)
 - [x] [ВСД-Космонавтика ч. 4](https://t.me/osbmd/3060)
 
-https://t.me/osbmd
+- https://t.me/osbmd
 ***  
 #### 2021-10-18  
 - [x] [Формы для скачивания без VPN](https://github.com/TalalakinAI/OSB/raw/master/OSB.zip)  
