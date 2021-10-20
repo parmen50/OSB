@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "yyyy-mm-dd-dinamika.md",
-            "mode": "source"
+            "file": "!News.md",
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "yyyy-mm-dd-dinamika.md",
+            "file": "!News.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "yyyy-mm-dd-dinamika.md",
+            "file": "!News.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "yyyy-mm-dd-dinamika.md"
+            "file": "!News.md"
           }
         }
       },
@@ -137,8 +137,8 @@
   },
   "active": "959601d523ad5ba3",
   "lastOpenFiles": [
-    "yyyy-mm-dd-dinamika.md",
     "!News.md",
+    "yyyy-mm-dd-dinamika.md",
     "!0SB.md",
     "!0SB_Instructio.md",
     "!AI_Talalakin.jpg",
