@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-20T11:20:08+03:00
+updated: 2021-10-20T11:22:24+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
@@ -7,6 +7,7 @@ updated: 2021-10-20T11:20:08+03:00
 ### ОСБ. НОВОСТИ.  
 ***  
 #### 2021-10-20  
+#### ОСБ / Просто о сложном
 [![](https://i.ytimg.com/vi/Z6PzwQQP4YI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDRy_eJIY9iV0m7EpW_Y481CkoeA)](https://youtu.be/Z6PzwQQP4YI)   
 ***
 [![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
