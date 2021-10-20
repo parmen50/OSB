@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-20T11:36:57+03:00
+updated: 2021-10-20T11:51:06+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
@@ -15,7 +15,7 @@ updated: 2021-10-20T11:36:57+03:00
 [![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
 ***  
 #### 2021-10-19  
-### ВСД-Космонавтика
+### ВСД-Космонавтика  
 ![](https://telegra.ph/file/6f7ba784d854f41b9ea87.jpg)   
 
 _- фрагменты эфира:_
