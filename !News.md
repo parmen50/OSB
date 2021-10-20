@@ -1,5 +1,5 @@
 ---
-updated: 2021-10-20T11:30:45+03:00
+updated: 2021-10-20T11:33:40+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
@@ -10,7 +10,7 @@ updated: 2021-10-20T11:30:45+03:00
 ***  
 #### ОСБ / Просто о сложном
 [![](https://i.ytimg.com/vi/Z6PzwQQP4YI/hqdefault.jpg)](https://youtu.be/Z6PzwQQP4YI)   
-***  
+***   
 #### ОСБ / Система квадрантов (USF)  
 [![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)  
 ***  
