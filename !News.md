@@ -1,10 +1,10 @@
 ---
-updated: 2021-10-20T01:56:17+03:00
+updated: 2021-10-20T03:07:35+03:00
 ---
 
 ##### [← Домой](!0SB.md)  
 ***  
-### ОСБ. НОВОСТИ.
+### ОСБ. НОВОСТИ.  
 ***  
 #### 2021-10-20
 [![](https://img.youtube.com/vi/w2yfEDAl514/maxresdefault.jpg)](https://youtu.be/w2yfEDAl514)
